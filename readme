@@ -1,0 +1,6 @@
+Installation
+=============
+pip install virtualenv
+pip instal flask
+virtualenv (nama env)
+source myenv(nama env)/bin/activate
